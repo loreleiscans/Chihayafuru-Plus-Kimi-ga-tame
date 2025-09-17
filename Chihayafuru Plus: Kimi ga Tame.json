@@ -6,19 +6,15 @@
   "cover": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36552-1126020784.1749816112.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "Chapter 1",
       "volume": "1",
-      "last_updated": "1758075494",
+      "last_updated": "1758080239",
       "groups": {
         "Karuta Club": [
           "https://i.imgur.com/Vcf26wB.jpg",
-          "",
           "https://i.imgur.com/PUEglGU.jpg",
-          "",
           "https://i.imgur.com/k9ErxdU.jpg",
-          "",
           "https://i.imgur.com/4LZFtXA.jpg",
-          "",
           "https://i.imgur.com/8EBb6Ca.jpg",
           "https://i.imgur.com/vkgWheH.jpg",
           "https://i.imgur.com/BlmHdKr.jpg",
@@ -76,8 +72,7 @@
           "https://i.imgur.com/uWoaZF9.jpg",
           "https://i.imgur.com/EeQEFeW.jpg",
           "https://i.imgur.com/wuex5uy.jpg",
-          "https://i.imgur.com/fAhuvPB.jpg",
-          ""
+          "https://i.imgur.com/fAhuvPB.jpg"
         ]
       }
     }
