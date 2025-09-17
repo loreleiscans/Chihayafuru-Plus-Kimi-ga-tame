@@ -4,5 +4,16 @@
   "artist": "SUETSUGU Yuki",
   "author": "SUETSUGU Yuki",
   "cover": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36552-1126020784.1749816112.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1758075494",
+      "groups": {
+        "Karuta Club": [
+          "https://imgur.com/a/gYtI7gm"
+        ]
+      }
+    }
+  }
 }
