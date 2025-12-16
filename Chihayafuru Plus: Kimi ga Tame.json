@@ -75,6 +75,16 @@
           "https://i.imgur.com/fAhuvPB.jpg"
         ]
       }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1765854290",
+      "groups": {
+        "Karuta Club": [
+          "https://i.imgur.com/KWa2hz8.jpg"
+        ]
+      }
     }
   }
 }
